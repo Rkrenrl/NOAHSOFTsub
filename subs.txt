@@ -1,0 +1,5 @@
+autoconfig.noahsoft.kr
+autodiscover.noahsoft.kr
+mail.noahsoft.kr
+mta-sts.noahsoft.kr
+status.noahsoft.kr
